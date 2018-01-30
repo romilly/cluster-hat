@@ -8,11 +8,11 @@ def main():
     context = zmq.Context()
 
     subscriber = context.socket(zmq.SUB)
-    subscriber.connect('tcp://controller:5561')
+    subscriber.connect('tcp://controller.local:5561')
     subscriber.setsockopt(zmq.SUBSCRIBE, b'')
     time.sleep(1)
     syncclient = context.socket(zmq.REQ)
-    syncclient.connect('tcp://controller:5562')
+    syncclient.connect('tcp://controller.local:5562')
     syncclient.send(b'')
     syncclient.recv()
     hostname = socket.gethostname()
