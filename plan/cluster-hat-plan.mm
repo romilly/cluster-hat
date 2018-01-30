@@ -163,9 +163,16 @@
 <node TEXT="OpenCV" ID="ID_1728894023" CREATED="1516623738416" MODIFIED="1516623741746">
 <node TEXT="https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/" ID="ID_1445669607" CREATED="1516880479425" MODIFIED="1516880479425" LINK="https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/"/>
 <node TEXT="https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/" ID="ID_481683196" CREATED="1516881327171" MODIFIED="1516881327171" LINK="https://www.pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/"/>
+<node TEXT="calibration" ID="ID_1184199151" CREATED="1516988661481" MODIFIED="1516988675295" LINK="https://gist.github.com/aarmea/629e59ac7b640a60340145809b1c9013">
+<node TEXT="OpenCV calibration docs" ID="ID_1274013687" CREATED="1516988698457" MODIFIED="1516988718834" LINK="https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_calib3d/py_calibration/py_calibration.html#calibration"/>
+</node>
+<node TEXT="https://albertarmea.com/post/opencv-stereo-camera/" ID="ID_1619184256" CREATED="1516988738930" MODIFIED="1516988738930" LINK="https://albertarmea.com/post/opencv-stereo-camera/"/>
+<node TEXT="https://docs.opencv.org/3.1.0/dd/d53/tutorial_py_depthmap.html" ID="ID_670425194" CREATED="1516988767507" MODIFIED="1516988767507" LINK="https://docs.opencv.org/3.1.0/dd/d53/tutorial_py_depthmap.html"/>
 </node>
 </node>
-<node TEXT="zeroMQ" ID="ID_418553204" CREATED="1516623751960" MODIFIED="1516623756097"/>
+<node TEXT="zeroMQ" ID="ID_418553204" CREATED="1516623751960" MODIFIED="1516623756097">
+<node TEXT="http://zguide.zeromq.org/py:all" ID="ID_412775840" CREATED="1516989383665" MODIFIED="1516989383665" LINK="http://zguide.zeromq.org/py:all"/>
+</node>
 <node TEXT="Pi camera" ID="ID_1789640292" CREATED="1516879847694" MODIFIED="1516879850952">
 <node TEXT="Python Pi Camera Module" ID="ID_1673691943" CREATED="1516879860743" MODIFIED="1516886153666" LINK="https://www.raspberrypi.org/documentation/usage/camera/python/README.md"/>
 <node TEXT="https://www.raspberrypi.org/forums/viewtopic.php?t=62499" ID="ID_526944533" CREATED="1516879876881" MODIFIED="1516879876881" LINK="https://www.raspberrypi.org/forums/viewtopic.php?t=62499"/>
@@ -183,9 +190,14 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
+</node>
+<node TEXT="clusterhat" ID="ID_1763553376" CREATED="1516989163554" MODIFIED="1516989167315">
+<node TEXT="rpiboot-test-image" ID="ID_1684920603" CREATED="1516989169546" MODIFIED="1516989190379" LINK="https://8086.support/content/23/88/en/guide-to-using-the-rpiboot-test-image-on-the-cluster-hat_zero-stem-or-just-a-usb-cable.html"/>
+<node TEXT="https://8086.support/content/23/89/en/how-do-i-copy-ssh-keys-to-p1_p4-when-using-usbboot_rpiboot.html" ID="ID_1462154382" CREATED="1516989252467" MODIFIED="1516989252467" LINK="https://8086.support/content/23/89/en/how-do-i-copy-ssh-keys-to-p1_p4-when-using-usbboot_rpiboot.html"/>
+<node TEXT="https://github.com/burtyb/clusterhat-image/blob/master/build/create.sh" ID="ID_725030128" CREATED="1516989267484" MODIFIED="1516989267484" LINK="https://github.com/burtyb/clusterhat-image/blob/master/build/create.sh"/>
+<node TEXT="https://clusterhat.com/setup-software" ID="ID_1499087924" CREATED="1516989291627" MODIFIED="1516989291627" LINK="https://clusterhat.com/setup-software"/>
 </node>
 </node>
 </node>
